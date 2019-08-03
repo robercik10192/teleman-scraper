@@ -9,7 +9,7 @@ Skrypt jest napisany w PHP z użyciem biblioteki [Simple HTML DOM](https://simpl
 ## Użycie
 
 Wystarczy podmienić zmienne ```$kanal``` oraz ```$data```, domyślne wartości to HBO i dzisiejsza data. 
-Lista kanałów znajduje się w pliku channels.txt. <br />
+Lista kanałów znajduje się w pliku [channels.md](https://github.com/robercik10192/teleman-scraper/blob/master/channels.md) <br />
 Format daty to Y-m-d, m, istnieje funkcja ```konwertuj_date()```, która pozwala konwertować datę na podany format.<br />
 **DOSTĘP DO PROGRAMÓW Z POPRZEDNICH LAT JEST NIEMOŻLIWY!**
 <br /><br />
