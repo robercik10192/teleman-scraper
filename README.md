@@ -5,7 +5,7 @@ Program telewizyjny dla programistów ;)
 ## O projekcie
 teleman-scraper.php jest [web scraperem](https://en.wikipedia.org/wiki/Web_scraping) pobierającym aktualny program TV ze strony teleman.pl. 
 Skrypt jest napisany w PHP z użyciem biblioteki [Simple HTML DOM](https://simplehtmldom.sourceforge.io/)
-
+(biblioteka jest dołączona, nie trzeba jej ściągać) <br />
 ## Użycie
 
 Wystarczy podmienić zmienne ```$kanal``` oraz ```$data```, domyślne wartości to HBO i dzisiejsza data. 
