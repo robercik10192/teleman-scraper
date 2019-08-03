@@ -13,7 +13,7 @@ Lista kanałów znajduje się w pliku [channels.md](https://github.com/robercik1
 Format daty to Y-m-d, m, istnieje funkcja ```konwertuj_date()```, która pozwala konwertować datę na podany format.<br />
 **DOSTĘP DO PROGRAMÓW Z POPRZEDNICH LAT JEST NIEMOŻLIWY!**
 <br /><br />
-Zwracaną wartością jest JSowa tablica obiektów. <br />
+Zwracaną wartością jest JSowa tablica obiektów: <br />
 
 ```javascript
 [
