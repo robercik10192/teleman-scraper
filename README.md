@@ -25,3 +25,8 @@ Zwracaną wartością jest JSowa tablica obiektów: <br />
   }
 ]
 ```
+<br /><br />
+
+**DISCLAMER!<br />
+Nie odpowiadam za szkody wynikłe z używania tego programu, nadmierne korzystanie może obciążyć stronę co może skutkować obciążeniem użytkownika skryptu odpowiedzialnością. 
+**
